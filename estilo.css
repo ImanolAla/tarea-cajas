@@ -1,0 +1,195 @@
+.principal
+{
+    background-color: aquamarine;
+    padding: 100px;
+    display: flex;
+    /*width: 600px;*/
+    height: 600px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+
+}
+.caja1
+{
+    background-color: rgb(196, 22, 22);
+    padding: 10px;
+    width: 250px;
+    height: 800px;
+    flex-direction: row;
+    align-content: center;
+    flex-grow: 1;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    box-sizing: border-box;
+
+}
+.caja2
+{
+    background-color: rgb(211, 214, 20);
+    padding: 10px;
+    width: 600px;
+    height: 800px;
+    flex-direction: row;
+    align-content: center;
+    flex-grow: 2;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+
+}
+.caja3
+{
+    background-color: rgb(14, 116, 36);
+    padding: 10px;
+    display: flex;
+    width: 250px;
+    height: 800px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    flex-grow: 3;
+    justify-content: center;
+    box-sizing: border-box;
+ 
+}
+.rojo1
+{
+    background-color:rgb(122, 18, 207);
+    width: 130px;
+    height: 170px;
+    margin: 5px;
+    
+}
+.rojo2
+{
+    background-color:rgb(122, 18, 207);
+    width: 130px;
+    height: 170px;
+    margin: 5px;
+
+}
+.rojo3
+{
+    background-color:rgb(122, 18, 207);
+    width: 130px;
+    height: 170px;
+    margin: 5px;
+    box-sizing: border-box;
+}
+.rojo4
+{
+    background-color:rgb(122, 18, 207);
+    width: 130px;
+    height: 170px;
+    margin: 5px;
+    box-sizing: border-box;
+}
+.amarillo1
+{
+    background-color: orangered;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
+.amarillo2
+{
+    background-color: orangered;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
+.amarillo3
+{
+    background-color: orangered;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
+.amarillo4
+{
+    background-color: orangered;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
+.amarillo5
+{
+    background-color: orangered;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
+.amarillo6
+{
+    background-color: orangered;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
+.amarillo7
+{
+    background-color: orangered;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
+.amarillo8
+{
+    background-color: orangered;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
+.amarillo9
+{
+
+    background-color: orangered;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
+.verde1
+{
+    background-color: yellowgreen;
+    width: 445px;
+    height: 100px;
+    margin: 5px;
+}
+.verde2
+{
+    background-color: yellowgreen;
+    width: 150px;
+    height: 250px;
+    margin: 5px;
+}
+.verde3
+{
+    background-color: yellowgreen;
+    width: 150px;
+    height: 250px;
+    margin: 5px;
+}
+.verde4
+{
+    background-color: yellowgreen;
+    width: 445px;
+    height: 100px;
+    margin: 5px;
+}
+.verde5
+{
+    background-color: yellowgreen;
+    width: 150px;
+    height: 250px;
+    margin: 5px;
+}
+.verde6
+{
+    background-color: yellowgreen;
+    width: 150px;
+    height: 250px;
+    margin: 5px;
+}
